@@ -236,6 +236,7 @@ DEPENDENCIES
   redis
   rspec-rails (~> 3.8)
   sassc-rails
+  selenium-webdriver
   simple_form
   spring
   spring-watcher-listen (~> 2.0.0)
